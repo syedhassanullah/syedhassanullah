@@ -19,9 +19,9 @@ Browser Developer Tools 🔧
 
 🔗 Connect with Me:
 
-LinkedIn: https://www.linkedin.com/in/syed-hassan-ullah-350586249/
-projects: https://github.com/syedhassanullah
-Gmail: syedhassanullah.0900@gmail.com
+<h3>LinkedIn: https://www.linkedin.com/in/syed-hassan-ullah-350586249/</h3>
+<h3>projects: https://github.com/syedhassanullah</h3>
+<h3>Gmail: syedhassanullah.0900@gmail.com</h3>
 
 
 💬 Let's cast spells in the language of code together or share stories of our coding adventures. The journey is always better when shared!
