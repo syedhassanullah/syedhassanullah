@@ -2,12 +2,12 @@
 
 💡 My skills:
 
-HTML 🧱
-CSS 🎨
-JavaScript 🚀
-Bootstrap 🌈
-WordPress 📝
-🚀 On my quest to tame the wild lands of the Internet, I wield the powers of code to sculpt visually stunning and seamlessly functional websites. Each line of code is a brushstroke, and every project is a canvas for innovation.
+-HTML 🧱
+-CSS 🎨
+-JavaScript 🚀
+-Bootstrap 🌈
+-WordPress 📝
+-🚀 On my quest to tame the wild lands of the Internet, I wield the powers of code to sculpt visually stunning and seamlessly functional websites. Each line of code is a brushstroke, and every project is a canvas for innovation.
 
 🌌 Navigating the ever-expanding cosmos of web development, I explore the constellations of responsive design, dance with the rhythms of JavaScript, and conjure magical WordPress realms.
 
