@@ -2,11 +2,11 @@
 
 💡 My skills:
 
-<h1>-HTML 🧱</h1>
--CSS 🎨
--JavaScript 🚀
--Bootstrap 🌈
--WordPress 📝
+<h1>HTML 🧱</h1>
+<h1>CSS 🎨</h1>
+<h1>-JavaScript 🚀</h1>
+<h1>Bootstrap 🌈</h1>
+<h1>WordPress 📝</h1>
 -🚀 On my quest to tame the wild lands of the Internet, I wield the powers of code to sculpt visually stunning and seamlessly functional websites. Each line of code is a brushstroke, and every project is a canvas for innovation.
 
 
