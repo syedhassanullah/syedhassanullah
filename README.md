@@ -1,6 +1,6 @@
-👨‍💻 Greetings, fellow coder! I'm [Your Name], a frontend sorcerer conjuring captivating digital experiences in the realm of the web.
+👨‍💻 Greetings, fellow coder! I'm Syed Hassan Ullah, a frontend sorcerer conjuring captivating digital experiences in the realm of the web.
 
-💡 My Arsenal:
+💡 My skills:
 
 HTML 🧱
 CSS 🎨
@@ -16,10 +16,14 @@ WordPress 📝
 Visual Studio Code 🔮
 Git & GitHub 🧙
 Browser Developer Tools 🔧
+
+
 🔗 Connect with Me:
 
-LinkedIn: [Your LinkedIn Profile]
-Twitter: [@YourTwitterHandle]
+LinkedIn: https://www.linkedin.com/in/syed-hassan-ullah-350586249/
+projects: https://github.com/syedhassanullah
+Gmail: syedhassanullah.0900@gmail.com
+
 🌟 In this vast digital wilderness, I thrive on collaboration and discovery. Dive into my repositories, where lines of code weave tales of challenges conquered and creativity unleashed.
 
 💬 Let's cast spells in the language of code together or share stories of our coding adventures. The journey is always better when shared!
