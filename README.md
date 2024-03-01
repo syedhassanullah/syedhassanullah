@@ -2,12 +2,13 @@
 
 💡 My skills:
 
-<h2>React</h2>
+<h2>REACT</h2>
 <h2>HTML 🧱</h2>
 <h2>CSS 🎨</h2>
 <h2>JavaScript 🚀</h2>
 <h2>Bootstrap 🌈</h2>
 <h2>WordPress 📝</h2>
+<h2>MERN Stack (Continue)</h2>
 -🚀 On my quest to tame the wild lands of the Internet, I wield the powers of code to sculpt visually stunning and seamlessly functional websites. Each line of code is a brushstroke, and every project is a canvas for innovation.
 
 
