@@ -2,7 +2,7 @@
 
 💡 My skills:
 
-<h2>REACT</h2>
+<h3>REACT</h3>
 <h2>HTML 🧱</h2>
 <h2>CSS 🎨</h2>
 <h2>JavaScript 🚀</h2>
