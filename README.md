@@ -23,8 +23,8 @@ Browser Developer Tools 🔧
 🔗 Connect with Me:
 
 <a>LinkedIn: https://www.linkedin.com/in/syed-hassan-ullah-350586249/</a>
-<h4>projects: https://github.com/syedhassanullah</h4>
-<h4>Gmail: https://syedhassanullah.0900@gmail.com</h4>
+<a>projects: https://github.com/syedhassanullah<a>
+<a>Gmail: https://syedhassanullah.0900@gmail.com<a>
 
 
 💬 Let's cast spells in the language of code together or share stories of our coding adventures. The journey is always better when shared!
