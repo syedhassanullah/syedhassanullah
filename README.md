@@ -1,4 +1,4 @@
-👨‍💻 Greetings, fellow coder! I'm Syed Hassan Ullah, h2 frontend sorcerer conjuring captivating digital experiences in the realm of the web.
+👨‍💻 Greetings, fellow coder! <h3>I'm Syed Hassan Ullah</h3>, h2 frontend sorcerer conjuring captivating digital experiences in the realm of the web.
 
 💡 My skills:
 
