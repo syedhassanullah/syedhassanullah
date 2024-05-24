@@ -22,7 +22,7 @@ Browser Developer Tools 🔧
 
 🔗 Connect with Me:
 
-<h2>LinkedIn:<span> <a>https://www.linkedin.com/in/syed-hassan-ullah-350586249/</a></span></h2>
+<h2>LinkedIn:<a>https://www.linkedin.com/in/syed-hassan-ullah-350586249/</a></h2>
 <a>projects: https://github.com/syedhassanullah<a>
 <a>Gmail: https://syedhassanullah.0900@gmail.com<a>
 
