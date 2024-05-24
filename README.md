@@ -2,13 +2,14 @@
 
 💡 My skills:
 
-<h3>REACT</h3>
+<h2>REACT.JS</h2>
+<h2>NODE.JS</h2>
 <h2>HTML 🧱</h2>
 <h2>CSS 🎨</h2>
 <h2>JavaScript 🚀</h2>
 <h2>Bootstrap 🌈</h2>
 <h2>WordPress 📝</h2>
-<h2>MERN Stack (Continue)</h2>
+<h2>MERN Stack</h2>
 -🚀 On my quest to tame the wild lands of the Internet, I wield the powers of code to sculpt visually stunning and seamlessly functional websites. Each line of code is a brushstroke, and every project is a canvas for innovation.
 
 
@@ -21,7 +22,7 @@ Browser Developer Tools 🔧
 
 🔗 Connect with Me:
 
-<h4>LinkedIn: https://www.linkedin.com/in/syed-hassan-ullah-350586249/</h4>
+<a>LinkedIn: https://www.linkedin.com/in/syed-hassan-ullah-350586249/</a>
 <h4>projects: https://github.com/syedhassanullah</h4>
 <h4>Gmail: https://syedhassanullah.0900@gmail.com</h4>
 
